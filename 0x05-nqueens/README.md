@@ -32,4 +32,4 @@ This project contains interview coding challenges.
   julien@ubuntu:~/0x08. N Queens$
   ` + You don’t have to print the solutions in a specific order.
   - # You are only allowed to import the `sys` module.
-    80752ff5aa8a2898ba4bc51965e13e6a06ef5314
+
