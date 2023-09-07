@@ -5,7 +5,7 @@ AlgorithmJavascriptAPI
 
 -   By Alexa Orrico, Software Engineer at Holberton School
 
-[!image](image-starwars.jpg)
+![war](image-starwars.jpg)
 
 Requirements
 ------------
