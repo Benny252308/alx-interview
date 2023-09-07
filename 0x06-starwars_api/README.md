@@ -1,6 +1,8 @@
 # 0x06. Star Wars API
 
-`Algorithm` `Python` `API`
+`Algorithm` `API` `JavaScript`
+
+![image](star-wars-image.jpg)
 
 ## More Info
 ## Install Node 10
